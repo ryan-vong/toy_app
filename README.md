@@ -1,6 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 #
 TOY_APP
-
->>>>>>> fa018033ed887a8184d72f10f1e374ee2f89e6d3
